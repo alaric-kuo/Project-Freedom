@@ -58,10 +58,10 @@
 
 ## 📂 ドキュメント構成 (Table of Contents)
 
-* **[Chapter 1: 維度の錯位]** - 古典力学の限界と相対論的崩壊
-* **[Chapter 2: 1988年からの神託]** - 逆襲のシャアと福島のシンクロニシティ
-* **[Chapter 3: 流星の軌跡]** - Freedom実体化計画の詳細（技術・国防・金融）
-* **[Chapter 4: 究極の錬金術]** - 悲しみを賢者の石に変え、光になる
+* [**Chapter 1: 維度の錯位**](docs_jp/01_Dimensional_Mismatch.md) - 古典力学の限界と相対論的崩壊
+* [**Chapter 2: 1988年からの神託**](docs_jp/02_Oracle_from_1988.md) - 逆襲のシャアと福島のシンクロニシティ
+* [**Chapter 3: 流星の軌跡**](docs_jp/03_Trajectory_of_Meteor.md) - Project Freedomの詳細（技術・国防・金融）
+* [**Chapter 4: 究極の錬金術**](docs_jp/04_Ultimate_Alchemy.md) - 悲しみを賢者の石に変え、光になる
 
 ## 👤 著者について (About Author)
 
