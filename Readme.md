@@ -70,7 +70,7 @@
 * Ph.D. in Civil Engineering, National Taiwan University (NTU).
 * Trust System Designer & CEO of AJ Consulting.
 * Email: alaric.kuo@aj-consulting.net
-* Website: [aj-consulting.net](https://www.google.com/search?q=https://aj-consulting.net/)
+* Website: [aj-consulting.net](https://aj-consulting.net/)
 
 ---
 
@@ -78,4 +78,5 @@
 
 **「You can change your destiny, beyond the time.」**
 台湾より、愛と敬意を込めて。
+
 
