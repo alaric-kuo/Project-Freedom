@@ -1,7 +1,7 @@
 # 【白書】物理的宿命からフリーダムへ：福島のための絆と救済の道
 The Road from Physical Fate to Freedom: A Redemption Strategy for Fukushima
 
-## 第2章：1988年からの神託 同期する運命
+## 第2章：1988年からの神託、同期する運命
 (The Oracle from 1988: Synchronicity)
 
 物理学において、我々は因果律を信じる。だが、歴史という長河においては、時に「シンクロニシティ（共時性）」を信じざるを得ない瞬間がある。
@@ -71,3 +71,4 @@ The Road from Physical Fate to Freedom: A Redemption Strategy for Fukushima
 「Freedom」という名の流星（Meteor）が先に降臨してこそ、我々は真に「時間の向こう側（Beyond the Time）」へと到達できるのだと。
 
 (第2章 完)
+
