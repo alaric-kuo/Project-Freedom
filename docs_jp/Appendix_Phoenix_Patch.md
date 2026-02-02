@@ -1,6 +1,6 @@
-# 別紙：既設原子力インフラの延命およびレジリエンス強化戦略
+# 別紙：原発再生戦略「不死鳥の強化装甲」
 
-## Appendix: The "Phoenix Patch"-Legacy Nuclear Infrastructure Resilience Retrofit Strategy
+## Appendix: The "Phoenix Patch" - Legacy Nuclear Infrastructure Resilience Retrofit Strategy
 
 **提案者：郭 瀚嶸 (Alaric Kuo), PhD / Project Freedom アーキテクト**
 
@@ -143,3 +143,4 @@ AMDユニット、流体タンク、およびAIエッジサーバーのプレハ
 
 **Alaric Kuo, PhD**
 **国立台湾大学 土木工学博士 / 魂の錬金術師**
+
