@@ -1,9 +1,3 @@
-這是一份為您精心排版的 GitHub Markdown 格式宣言。我使用了區塊引用（Blockquotes）與斜體來區分歌詞，並加上適當的標題層級與視覺分隔線，讓整份文件的「燃」點與專業感並存。
-
-建議存檔檔名：`Project_Freedom_Manifesto_JP.md`
-
----
-
 # 合体せよ！大グレン団！
 
 ## 惑星級エネルギー独立宣言：Project Freedom
@@ -140,4 +134,5 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 ---
 
 **Alaric Kuo, PhD**
+
 **Project Freedom 發起人**
