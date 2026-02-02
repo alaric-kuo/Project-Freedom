@@ -170,7 +170,7 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 * **[Chapter 2: 1988年からの神託](docs_jp/02_Oracle_from_1988.md)**
 * **[Chapter 3: 流星の軌跡](docs_jp/03_Trajectory_of_Meteor.md)**
 * **[Chapter 4: 究極の錬金術](docs_jp/04_Ultimate_Alchemy.md)**
-* **[別紙：フェニックス・パッチ (Phoenix Patch Strategy)](docs_jp/Appendix_Phoenix_Patch.md)**
+* **[別紙：不死鳥の強化装甲 (Phoenix Patch Strategy)](docs_jp/Appendix_Phoenix_Patch.md)**
 
 ---
 
@@ -190,6 +190,7 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 
 **「You can change your destiny, beyond the time.」**
 台灣より、愛と敬意を込めて。
+
 
 
 
