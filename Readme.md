@@ -168,8 +168,8 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 
 * **[Chapter 1: 維度の錯位](docs_jp/01_Dimensional_Mismatch.md)**
 * **[Chapter 2: 1988年からの神託](docs_jp/02_Oracle_from_1988.md)**
-* **[Chapter 3: 流星の軌跡](03_Trajectory_of_Meteor.md)**
-* **[Chapter 4: 究極の錬金術](04_Ultimate_Alchemy.md)**
+* **[Chapter 3: 流星の軌跡](docs_jp/03_Trajectory_of_Meteor.md)**
+* **[Chapter 4: 究極の錬金術](docs_jp/04_Ultimate_Alchemy.md)**
 
 ---
 
@@ -189,5 +189,6 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 
 **「You can change your destiny, beyond the time.」**
 台灣より、愛と敬意を込めて。
+
 
 
