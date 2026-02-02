@@ -19,7 +19,7 @@
 
 **Project Freedom 発起人 / Alaric Kuo, PhD**
 
-### 第壱章：運命の絆 (Unmei no Kizuna)
+### 第壱幕：運命の絆 (Unmei no Kizuna)
 
 > *夢という 風に導かれて*
 > *あやまちの 船に揺られてく*
@@ -46,7 +46,7 @@ AI時代という名の無限の演算を支えるための無限のエネルギ
 
 ---
 
-### 第弐章：突破の絆 (Tuppatsu no Kizuna)
+### 第弐幕：突破の絆 (Tuppatsu no Kizuna)
 
 > *そしてまた*
 > *走り出した想いが今でも*
@@ -74,7 +74,7 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 
 ---
 
-### 第參章：勇気の絆 (Yuuki no Kizuna)
+### 第參幕：勇気の絆 (Yuuki no Kizuna)
 
 > *ひとりじゃないさ*
 > *くじけそうなときは*
@@ -108,7 +108,7 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 
 ---
 
-### 第四章：夢想の絆 (Musou no Kizuna)
+### 第四幕：夢想の絆 (Musou no Kizuna)
 
 > *無限大な夢のあとのやるせない世の中じゃ*
 > *そうさ常識はずれも悪くないかな*
@@ -189,6 +189,7 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 
 **「You can change your destiny, beyond the time.」**
 台灣より、愛と敬意を込めて。
+
 
 
 
