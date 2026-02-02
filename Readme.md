@@ -177,8 +177,9 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 
 **郭 瀚嶸 (Alaric Kuo), Ph.D.**
 
-* Ph.D. in Civil Engineering, National Taiwan University (NTU).
-* Trust System Designer & CEO of AJ Consulting (瀚菱管理顧問).
+* 国立台湾大学 土木工学博士 (タイダイ・ドクター) (Ph.D. in Civil Engineering, National Taiwan University)
+* 魂の錬金術師 (ソウル・アルケミスト) (Soul Alchemist)
+* 瀚菱管理顧問代表 (CEO of A&J Consulting)
 * Email: alaric.kuo@aj-consulting.net
 * Website: [aj-consulting.net](https://aj-consulting.net/)
 
@@ -188,3 +189,4 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 
 **「You can change your destiny, beyond the time.」**
 台灣より、愛と敬意を込めて。
+
