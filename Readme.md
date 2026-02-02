@@ -1,5 +1,5 @@
 # Project Freedom: 日本の原子力レジリエンスを再定義する国家戦略
-
+![Project Freedom Four Pillars](Project_Freedom_Four_Pillars.jpg)
 ## The Road from Physical Fate to Freedom: A Redemption Strategy for Fukushima
 
 > **「傷ついた場所だからこそ、世界で最も安全な場所になる」**
@@ -189,6 +189,7 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 
 **「You can change your destiny, beyond the time.」**
 台灣より、愛と敬意を込めて。
+
 
 
 
