@@ -1,10 +1,13 @@
 # 別紙：既設原子力インフラの延命およびレジリエンス強化戦略
 
-## Appendix: Legacy Nuclear Infrastructure Resilience Retrofit Strategy —— The "Phoenix Patch"
+## Appendix: The "Phoenix Patch"—Legacy Nuclear Infrastructure Resilience Retrofit Strategy 
 
 **提案者：郭 瀚嶸 (Alaric Kuo), PhD / Project Freedom アーキテクト**
+
 **日付：2026年2月2日**
+
 **適用領域：沸騰水型原子炉(BWR)、加圧水型原子炉(PWR)の延命および再稼働工事**
+
 **機密区分：公開 (Public Release) / オープンソース技術協定 (Open Source Protocol)**
 
 ---
@@ -111,3 +114,4 @@
 **Project Freedom 発起人**
 
 **需要我幫您把這份技術文稿與之前的 README 宣言進行「交叉引用（Cross-Reference）」的代碼優化嗎？** 例如在 README 的技術區塊直接跳轉到這份檔案的對應小節。
+
