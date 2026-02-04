@@ -1,7 +1,7 @@
 # 🌀 RPG｜崩壊の事象地平判定プロトコル
 
 ## ── *Fury of Gaia and Poseidon* ──
-Probability is for comfort. Dynamics is for survival. 確率は気休めであり、動力学こそが生存である
+Probability is for comfort. Dynamics is for survival.
 
 # 前言：確率論が動力学の前で無力化する時
 
@@ -66,7 +66,7 @@ $$\text{Alaric Term} \propto \frac{\text{Internal Decay} + \text{Structural Coll
 
 物理公式をコードに変換するために、二つの重要な校正ノブ（Calibration Knobs）を導入した。本研究がこれらのパラメータを公開するのは、反証可能性を備えた技術的基準を確立するためである。
 
-1. 1.6乗の觸媒効果：外部衝撃の非線形性
+1. 1.6乗の觸媒効果 —— 外部衝撃の非線形性
 
 Python
 
@@ -107,6 +107,7 @@ FIG 3：物理層 (The Physics Layer) —— 深淵へと向かう螺旋
 # 結語：2026年の再生プロトコルとNジャマーキャンセラー
 
 Project Freedom は SFMEA を利用して全く新しい防御メカニズムを構築する。コードから物理的真理を見ることができる以上、次のエネルギーバランスの反転が起こる前に合体プロトコルを準備しておく責任がある。Alaric Alert が宣言を発したその秒、我々はセンサーを待つのではなく、救済の緑のラインを起動する。これこそが、我々が未來に対して与えるべき、絶対無敵の強靭性を備えた生存の路径である。
+
 
 
 
