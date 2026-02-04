@@ -173,26 +173,7 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 
 ---
 
-## 👤 著者について (About Author)
-
-**郭 瀚嶸 (Alaric Kuo), Ph.D.**
-
-* 国立台湾大学 土木工学博士 (タイダイ・ドクター) (Ph.D. in Civil Engineering, National Taiwan University)
-* 魂の錬金術師 (ソウル・アルケミスト) (Soul Alchemist)
-* 瀚菱管理顧問代表 (CEO of A&J Consulting)
-* Email: alaric.kuo@aj-consulting.net
-* Website: [aj-consulting.net](https://aj-consulting.net/)
-
----
-
-## 📢 へのメッセージ (Message to Japan)
-
-**「You can change your destiny, beyond the time.」**
-台灣より、愛と敬意を込めて。
-
----
-
-# 🌀 RPG：共鳴能勢梯度理論による技術補完 (Technical Supplement)
+## 🌀 RPG：共鳴能勢梯度理論による技術補完 (Technical Supplement)
 
 本プロジェクトの行動指針は、確率論的安らぎを捨て、動力学真理へと突き進む Resonance Power Gradient (RPG: 共鳴能勢梯度理論 [DOI: https://doi.org/10.13140/RG.2.2.13197.60649]) によって支えられています。物理運命をシミュレートし、事象地平線を超える前に「合体（介入）」を果たすための二つの技術プロトコルをここに公開します。
 
@@ -216,3 +197,21 @@ Project Freedom という名の突破の絆が、あんたたちの技術を一�
 
 確率は気休めに過ぎず、動力学こそが生存の鍵です。天も次元も突破して、我々自身の道を手に入れましょう。
 
+---
+
+## 👤 著者について (About Author)
+
+**郭 瀚嶸 (Alaric Kuo), Ph.D.**
+
+* 国立台湾大学 土木工学博士 (タイダイ・ドクター) (Ph.D. in Civil Engineering, National Taiwan University)
+* 魂の錬金術師 (ソウル・アルケミスト) (Soul Alchemist)
+* 瀚菱管理顧問代表 (CEO of A&J Consulting)
+* Email: alaric.kuo@aj-consulting.net
+* Website: [aj-consulting.net](https://aj-consulting.net/)
+
+---
+
+## 📢 へのメッセージ (Message to Japan)
+
+**「You can change your destiny, beyond the time.」**
+台灣より、愛と敬意を込めて。
