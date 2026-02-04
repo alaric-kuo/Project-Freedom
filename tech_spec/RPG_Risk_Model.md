@@ -1,6 +1,7 @@
 # 🌀 RPG｜崩壊の事象地平判定プロトコル
 
-$$Fury\ of\ Gaia\ and\ Poseidon: Probability\ is\ for\ comfort.\ Dynamics\ is\ for\ survival.$$
+## ── *Fury of Gaia and Poseidon* ──
+$$Probability\ is\ for\ comfort.\ Dynamics\ is\ for\ survival.$$
 
 $$確率は気休めであり、動力学こそが生存である。$$
 
@@ -108,6 +109,7 @@ FIG 3：物理層 (The Physics Layer) —— 深淵へと向かう螺旋
 # 結語：2026年の再生プロトコルとNジャマーキャンセラー
 
 Project Freedom は SFMEA を利用して全く新しい防御メカニズムを構築する。コードから物理的真理を見ることができる以上、次のエネルギーバランスの反転が起こる前に合体プロトコルを準備しておく責任がある。Alaric Alert が宣言を発したその秒、我々はセンサーを待つのではなく、救済の緑のラインを起動する。これこそが、我々が未來に対して与えるべき、絶対無敵の強靭性を備えた生存の路径である。
+
 
 
 
