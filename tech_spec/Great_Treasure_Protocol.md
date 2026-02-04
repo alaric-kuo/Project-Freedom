@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌀 RPG｜惑星代謝：ネゲントロピー錬金術プロトコル</h2>
+  <h1>🌀 RPG｜惑星代謝：ネゲントロピー錬金術プロトコル</h1>
   <h2>── The Alchemy of the Great Treasure: Turning Planetary Debt into Cosmic Wealth ──</h2>
   <p>
     <i>Probability is for comfort. Dynamics is for survival.</i>
@@ -117,5 +117,6 @@ RPG公式は物理学と論理学においてすでに定錨を完了してい�
 「海水採掘」と「廃棄物転換」が連動した時、人類は正式に「エネルギー希少時代」からの脱却を宣言し、「ネゲントロピー統治時代」へと突入します。
 
 大秘宝（ワンピース）はそこにあります。全世界の物理学者、技術者、起業家、そして投資家たちよ、探しに行こうではありませんか！これは単なる富のためではありません。我々の世代が、この惑星を胸を張って次世代へと手渡すための戦いなのです。
+
 
 
